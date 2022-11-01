@@ -1,0 +1,138 @@
+.messages {
+    width: 70%;
+    background-color: aqua;
+    height: 800px !important;
+    
+}
+body {
+    background-color: rgb(208, 209, 209);
+}
+
+.my-link {
+    color: white;
+    margin-left: 10px;
+}
+.error-message-light {
+    color: rgb(219, 92, 92)
+}
+.login-container {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.my-module {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: rgba(8, 9, 30, 0.8);
+    box-shadow: 5px 0px 20px 3px rgba(8, 9, 30, 0.6) !important;
+}
+.my-status-select, .my-add-field {
+    max-width: 300px;
+    display: inline;
+}
+.user-status {
+    margin-top: 20px;
+    color: white;
+}
+.friends-title {
+    color: white;
+    margin-bottom: -30px;
+}
+.my-add-form {
+    margin-top: 20px;
+}
+.friends-list-table {
+    margin-top: 40px;
+    overflow-y: scroll !important;
+    height: 380px !important;
+    border-width:2px ;
+    border: solid;
+    border-radius: 5px;
+    border-color:yellow ;
+}
+
+.my-update, .add-btn {
+    display: inline;
+    margin-left: 20px;
+    margin-top: -6px;
+}
+.my-container {
+    padding: 2%;
+    width: 95%;
+    max-width: 95%;
+    max-height: 900px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.friends-list {
+    width: 25%;
+    height: 600px;
+    
+    
+}
+.messages-area {
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: rgba(74, 74, 90, 0.8);
+    height: 700px;
+    border-radius: 5px;
+}
+.status {
+    width: 25%;
+    height: 190px;
+}
+.mes-left{
+    display: block;
+    width:600px;
+}
+.mes-right {
+    display: block;
+    width:600px;
+    margin-left: 48%;
+}
+.message-el {
+    
+    color: white;
+    padding: 10px;
+    min-width: 600px;
+    
+    height: 100px;
+}
+.message-date {
+    font-size: 11px;
+}
+.message-text {
+    background-color: rgba(28, 28, 29, 0.8) ;
+    padding: 10px;
+    border-radius: 5px;
+    max-width: 600px;
+}
+.message-field {
+    margin-top: 30px;
+    max-width: 90%; 
+}
+.my-send {
+    display: inline;
+    float: right;
+    margin-top: -38px;
+    margin-right: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.my-btns {
+    margin-left: 10px !important;
+}
+.title {
+    margin: 0 auto;
+}
+.public-chat-btn{
+    width: 100% !important;
+    margin-top: 20px;
+}
+.lilmove {
+    margin-left: 44px;
+    margin-top: -35px;
+}
